@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Slyfe222
-- 👀 I’m interested in mobile apps and Formula 1
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on mobile apps
+- 👀 I’m interested in Formula 1 and simracing
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: finalityslyfe@gmail.com
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: I streaming on Twitch
